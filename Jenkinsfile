@@ -40,7 +40,7 @@ pipeline {
 	} 
 	post {
 		always {
-			echo 'always statement - awesome maybe?'
+			echo 'always statement  - awesome maybe?'
 		}
 		success {
 			echo 'success statement?'
